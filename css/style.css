@@ -337,11 +337,11 @@ header .ham-burger.active span:nth-child(2){
 	  }
 	  
 	  .whoweare .content #whoweareimg {
-		width: 400px;
+		width: 320px;
 		-webkit-transform: rotateY(180deg);
 		transform: rotateY(180deg);
 		padding: 30px;
-		height: 500px;
+		height: 400px;
 		display: flex;
 		/* margin:auto; */
 	  }
@@ -356,7 +356,7 @@ header .ham-burger.active span:nth-child(2){
 	  
 	  .whoweare .content .text p {
 		font-size: 20px;
-		line-height: 50px;
+		line-height: 30px;
 		color: #ffffff;
 		margin: 20px;
 		padding: 0px 0px 20px;
@@ -677,7 +677,7 @@ header .ham-burger.active span:nth-child(2){
     padding:0 0 15px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1100px) {
 	#partners{
 		margin-top:10%;
 	}
@@ -702,8 +702,8 @@ header .ham-burger.active span:nth-child(2){
 	}
 	
 	.partners .content .img img{
-		width: 400px;
-		height: 500px;
+		width: 320px;
+		height: 400px;
 		-webkit-transform: rotateY(180deg);
 		transform: rotateY(180deg);
 		padding: 30px;
@@ -791,7 +791,7 @@ header .ham-burger.active span:nth-child(2){
 	}
 	
 	.partners .content .class-items .item .item-text p{
-		font-size: 20px;
+		font-size: 18px;
 		line-height: 30px;
 		color: #ffffff;
 		text-align:left;
