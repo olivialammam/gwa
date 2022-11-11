@@ -262,10 +262,13 @@ header .ham-burger.active span:nth-child(2){
 	font-weight: 700;
 	text-transform: uppercase;
 	margin:0;
+
+	padding-top: 50px;
 }
 
 .home h1 span{
 	color:#c11325;
+	
 }
 
 .img {
@@ -1524,7 +1527,7 @@ flex: 0 0 100%;
   .home h1{
       font-size: 30px;
 	  
-	
+	padding-bottom:50px;
   }
   .hovertext {
 	  width: 200px;
